@@ -1,4 +1,4 @@
-# Missão estelar - Primeira midssão 
+# Missão estelar - Primeira missão 
 ## Minhas tecnologias preferida
 
 PHP, JavaScript
